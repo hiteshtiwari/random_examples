@@ -1,2 +1,1 @@
-### %md 
-# python code for leet problems
+### Python code for leet problems
